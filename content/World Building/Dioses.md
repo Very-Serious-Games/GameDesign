@@ -10,43 +10,43 @@ Velyria reina sobre Aluria y se alimenta de los deseos más oscuros de los habit
 ## Aspecto
 Mujer de una belleza sobrenatural, pero lo más inquietante es su capacidad para cambiar su forma constantemente. Su apariencia se ajusta a los deseos más profundos de quien la observe. Sus ojos brillan con una luz hipnótica, siempre atrayendo la atención de aquellos que la miran, reflejando la tentación y el anhelo. Su voz es suave y seductora, capaz de desarmar la voluntad más fuerte.
 
-![[/Pictures/velyria_picture.jpg|500x500]]
+![[velyria_picture.jpg|500x500]]
 # Vorak, el pecado de la Gula
 Vorak controla la Selva de Gluttara un lugar donde todo es excesivo y está fuera de control. Este fomenta un ciclo de consumo sin fin, atrapando a las personas en la adicción a la comida, las drogas y a cualquier cosa que puedan devorar. Por su culpa los habitantes de Gluttara están atrapados en un ciclo interminable de glotonería, incapaces de saciar sus deseos. Cuanto más consumen, más vacíos se sienten.
 ## Aspecto
 Monstruosidad gigantesca, su cuerpo hinchado y grotescamente obeso está cubierto de bocas que nunca paran de masticar. A su alrededor, el aire parece cargado de una energía que hace que todo ser vivo cercano sienta un hambre incapaz de saciarla. A medida que se mueve, cada paso retumba en la tierra como una fuerza imparable.
 
-![[/Pictures/vorak_picture.jpg|500x500]]
+![[vorak_picture.jpg|500x500]]
 # Aurvash, el pecado de la Avaricia
 Aurvash infunde un deseo insaciable de posesiones a los habitantes del Desierto de Dorakaar, llevando a las tribus y ciudades a destruirse mutuamente por riquezas. Aurvash controla a todos desde las sombras, haciendo que la gente nunca se sienta satisfecha con lo que tiene. Siempre quieren más, y este deseo los lleva a traicionar, robar y destruirse mutuamente.
 ## Aspecto
 Una figura de un múrido con la piel brillante como oro líquido, siempre adornado con joyas y piedras preciosas que forman parte de su propia carne. Sus ojos brillan como si fueran lingotes de oro puro, que reflejan todo lo que miran, dicen que si lo miras solo verás reflejada tu propia codicia.
 
-![[/Pictures/aurvash_picture.jpg|500x500]]
+![[aurvash_picture.jpg|500x500]]
 # Eltheon, el pecado de la Soberbia
 Eltheon gobierna sobre Celestia, donde la élite cree que esté por encima de todo. Él susurra palabras de grandeza a los poderosos, haciéndoles creer que son divinos e invulnerables. Por su culpa los habitantes de Celestia se creen la reencarnación de la perfección, ignorando los problemas del mundo inferior. 
 ## Aspecto
 Ser majestuoso con una apariencia casi divina. Tiene unas enormes alas doradas que cada vez se van desgastando más y más. Su corona es gigantesca y reluciente, pero demasiado grande para él, aplastando ligeramente su cabeza como símbolo de su arrogancia. Irradia una luz cegadora cegadora que lo rodea como un aura, tan brillante que los ojos humanos no pueden mirar directamente sin sentirse abrumados. 
 
-![[/Pictures/eltheon_picture.jpg|500x500]]
+![[eltheon_picture.jpg|500x500]]
 # Ragnor, el pecado de la Ira
 Ragnor es el señor de las Llanuras de Eshnar. Su presencia aumenta la agresión y el odio, haciendo que las facciones en conflicto nunca puedan alcanzar la paz. Dentro de sus dominios, cualquier tregua se en cuestión de días, y los ejércitos luchan hasta la muerte sin razón aparente.  
 ## Aspecto
 Coloso musculoso, su cuerpo está cubierto de cicatrices profundas, cada una de ellas ganada en mil batallas. Sostiene una espada inmensa que no para de gotear sangre fresca, incluso cuando no está en combate. A su alrededor, el aire está cargado de energía violenta, lo que hace que cualquiera que se acerque sienta su propia sangre hervir de ira.
 
-![[/Pictures/ragnor_picture.jpg|500x500]]
+![[ragnor_picture.jpg|500x500]]
 # Slothar, el pecado de la Pereza
 Slothar reina en las Islas de Letheria, un archipiélago que en su día fue un paraíso, pero que ahora está cubierto bajo una niebla de apatía. Todo en las islas parece desmoronarse lentamente bajo su influencia, como si el tiempo se detuviera. Donde Slothar  aparece, las personas pierden el deseo de luchar, crear o siquiera existir. Todo se vuelve estático, y los que caen bajo su influencia se quedan atrapados en un letargo del que nunca podrán escapar.
 ## Aspecto
 Figura esquelética y encorvada. Lleva una capa desgastada que parece absorber la energía vital de todo lo que hay a su alrededor. Cada movimiento que hace es lento y pesado, y su mera presencia en cualquier lugar parece ralentizar el tiempo y agotar a quienes lo rodean.
 
-![[/Pictures/slothar_picture.jpg|500x500]]
+![[slothar_picture.jpg|500x500]]
 # Vidrak, el pecado de la Envidia
 Vidrak gobierna las Montañas de Caldrin. Siembra discordia entre las tribus ya que por su culpa nadie está satisfecho con lo que tiene. Usa la naturaleza de las montañas para fomentar la desconfianza, mostrando a los habitantes imágenes ilusorias de lo que creen que les falta. Bajo su influencia, las tribus y familias se traicionan constantemente, y las alianzas duran poco antes de desmoronarse en una espiral de celos y resentimiento.
 ## Aspecto
 Criatura reptiliana con un cuerpo largo y escamoso que se desliza por las sombras. A lo largo de su cuerpo, hay cientos de ojos que se abren y cierran constantemente, observando todo a su alrededor. Cada ojo ve los deseos ocultos y los celos de aquellos que la rodean. Su lengua bífida es larga y afilada, siempre lista para susurrar mentiras en los oídos de los incautos.
 
-![[/Pictures/vidrak_picture.jpg|500x500]]
+![[vidrak_picture.jpg|500x500]]
 
 # Comunicación
 
