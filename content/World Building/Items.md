@@ -61,6 +61,6 @@ Estos pequeños fragmentos permiten al individuo que los tenga en su poder resis
 Estos fragmentos se pueden encontrar en ruinas antiguas o lugares ocultos a lo largo de todo Vekhara.
 
 
-###### Ítem: Piedra del Renacimiento
+###### Ítem: *Piedra del Renacimiento*
 De color rojo oscuro, permite a su propietario volver a un lugar seguro cuando se encuentre en situaciones que peligren altamente su vida. Usarla también cura parcialmente, pero solo puede ser utilizada una vez por ciclo lunar.
 Para ser forjada, un artesano necesita una serie de minerales comunes de todas las regiones, derretidos con una planta medicinal que crece bajo condiciones extremas en las montañas de Caldrin.
