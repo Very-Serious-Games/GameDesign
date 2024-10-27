@@ -29,5 +29,40 @@ Semanalmente se organiza una gran festividad llamada *La Gran Ingestión*, en do
 
 ## Doraakar
 #### (Avaricia - Aurvash)
+Se trata de una sociedad dividida en estamentos, muy clasista y jerarquizada. Esta jerarquía piramidal, autodenominada por sus integrantes como *Los Seguidores del Oro Puro*, es liderada por el *Consejo de los Acumuladores*, los habitantes con mayor riqueza de Doraakar. 
+En esta sociedad ven la riqueza y las posesiones como un reflejo de poder divino, de manera que cada estamento está definido por la cantidad de patrimonio de cada individuo. 
+Cada luna nueva, se lleva a cabo *El Ritual del Aumento*, donde sus habitantes queman una parte de la cantidad de posesiones y bienes sustraídos de sus enemigos como símbolo de su superioridad capital.
 
+
+## Celestia
+#### (Soberbia - Eltheon)
+En Celestia sus habitantes creen en su divinidad innata, donde cada ciudadano es tratado como un semidiós. Consideran que los mortales de las tierras bajas son inferiores y que deben ser sometidos.
+Es común ver a los Celestianos vestidos con ropajes caros, telas doradas, importadas de países lejanos con motivos en oro o similar.
+La sociedad de Celestia se organiza en una estructura jerárquica extremadamente rígida; cada persona tiene un rango de *Pureza Divina*. La nobleza de mayor rango es quien gobierna y establece las leyes, denominados *La Nobleza de los Ascendidos*.
+Anualmente se celebra el *Día de la Ascensión*, en donde los de menor rango ofrecen sus posesiones (o incluso su vida) a los superiores, para purificar su espíritu.
+
+
+## Eshnar
+#### (Ira - Ragnor)
+En una sociedad gravemente marcada por la violencia, la guerra es la máxima expresión de la devoción hacia Ragnor, y el conflicto se ve como una forma de honrarlo. Los clanes luchan constantemente, sin tregua ni alianzas estables.
+Los individuos de alto rango bélico están cubiertos de cicatrices y marcas de conflictos pasados, que portan como algo de lo que presumir, ya que es una clara demostración de sus logros militares.
+Se dividen en facciones y clanes que siguen a líderes guerreros, *Campeones de la Ira*. La gloria en batalla es el único medio de ascender en la sociedad.
+Al finalizar el año celebran *El Torneo Carmesí*, una brutal competición donde los guerreros luchan hasta la muerte para demostrar su valía ante Ragnor.
+
+
+## Letheria
+#### (Pereza - Slothar)
+Existe una congregación o culto llamado *Los Dóciles del Olvido*. Dirigidos por la gran influencia de Slothar, ven la inacción como la forma más pura de devoción hacia él. Autoengañados por el influjo de la Pereza, creen que la ambición, el movimiento o el cambio son considerados profanaciones de la calma, totalmente inútiles.
+Los habitantes presentan un aspecto totalmente dejado: nadie se arregla, ni presenta ninguna modificación o esfuerzo en exhibir su mejor apariencia ya que no vale la pena el trabajo. Por ese motivo es común que los individuos tengan una muy mala forma física, lleven el pelo totalmente enmarañado, las uñas largas, la piel sucia.
+
+No existe una jerarquía definida, ya que el liderazgo no es deseado. Cada individuo se conforma con lo mínimo, y la comunidad sigue en un estancamiento casi absoluto.
+El único evento a destacar es *La Noche de la Sombra Eterna*, en dónde una vez al año, todos los habitantes duermen durante un ciclo completo de días, buscando una conexión pura con su ser más profundo.
+
+
+## Caldrin
+#### (Envidia - Vidrak)
+En Caldrin encontramos una nación en donde la comparación alcanza su máximo esplendor: ésta comparación es constante, y la posesión de lo que otros tienen es la base de sus creencias. Se enorgullecen de despojar a los demás de sus bienes y creen que Vidrak los guiará hacia sus deseos si se muestran siempre vigilantes.
+
+Se agrupan en aldeas semi-aisladas, en las que cada líder es conocido como el *Ojo Vigilante*, cuyo rol es espiar y recopilar información sobre los bienes y vidas de otras aldeas. A pesar de convivir en vecindad, los habitantes de una misma aldea siguen sufriendo pequeños hurtos y robos por parte de otros residentes. 
+Semanalmente se congregan para llevar a cabo la *Noche de los Mil Ojos*, en donde comparten los secretos y defectos de sus vecinos, lo cual incrementa la desconfianza y traiciones entre ellos.
 
