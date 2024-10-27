@@ -16,3 +16,5 @@ En el mundo de Vekhara, las diferentes regiones prosperan gracias a un dinámico
 Finalmente, **Caldrin** es una región aislada y celosa de sus recursos. Debido a su naturaleza reservada, no permite ni la entrada ni la salida de mercancías externas, viviendo de lo que sus montañas y fauna local pueden ofrecer. Con **fragmentos de cristal reflejante** y **lágrimas de celos** extraídas de sus animales, los habitantes de Caldrin fabrican el **Espejo de Reflejo Codicioso**, un objeto intrigante que permite adoptar la apariencia de otros. Aunque es codiciado, Caldrin se mantiene firme en su política de no comerciar, protegiendo sus secretos y manteniendo su independencia.
 
 Este sistema de intercambio y recursos en Vekhara no solo sostiene a las regiones, sino que también refuerza la identidad y las relaciones de cada territorio, haciendo que la economía sea una extensión de sus culturas y valores más profundos.
+
+[Nuestro Machinations de los recursos de Vekhara](https://my.machinations.io/d/recursos-vekhara/8e80404293d911efa81906fdf218a24f "https://my.machinations.io/d/recursos-vekhara/8e80404293d911efa81906fdf218a24f")
