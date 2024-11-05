@@ -5,10 +5,10 @@ title: "Bienvenidos a Vekhara: Un Mundo de Pecados y Comercio"
 
 ## Regiones de Vekhara
 
-- Aluria - La Tierra de la Lujuria
-- Gluttara - La Tierra de la Gula
-- Dorakaar - La Tierra de la Avaricia
-- Celestia - La Tierra de Soberbia
-- Eshnar - La Tierra de Ira
-- Letheria - La Tierra de Pereza
-- Caldrin - La Tierra de Envidia
+- [[Sociedades#Aluria]] - La Tierra de la Lujuria
+- [[Sociedades#Gluttara]] - La Tierra de la Gula
+- [[Sociedades#Dorakaar]] - La Tierra de la Avaricia
+- [[Sociedades#Celestia]] - La Tierra de Soberbia
+- [[Sociedades#Eshnar]] - La Tierra de Ira
+- [[Sociedades#Letheria]] - La Tierra de Pereza
+- [[Sociedades#Caldrin]] - La Tierra de Envidia
