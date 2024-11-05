@@ -9,10 +9,9 @@ tags:
 - Action
 ## Mecánicas
 - Bossfights con los [[Dioses]] del mundo.
-- Combos
-- Multiplicador de daño
-- Parry
-- Bullet Time
+- Multiplicador de daño --> Combos
+- Parry --> Un arma
+- Bullet Time --> Al esquivar
 - Diferentes armas
 - Progresión lineal por caps
 ## Gestión
