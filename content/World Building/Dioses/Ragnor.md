@@ -1,7 +1,9 @@
 ---
 title: Ragnor
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Ira
 Ragnor es el señor de las Llanuras de [[Mundo#Eshnar]]. Su presencia aumenta la agresión y el odio, haciendo que las facciones en conflicto nunca puedan alcanzar la paz. Dentro de sus dominios, cualquier tregua se desmorona en cuestión de días, y los ejércitos luchan hasta la muerte sin razón aparente.

@@ -1,7 +1,9 @@
 ---
 title: Eltheon
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Soberbia
 Eltheon gobierna sobre [[Mundo#Celestia]], donde la élite cree que esté por encima de todo. Él susurra palabras de grandeza a los poderosos, haciéndoles creer que son divinos e invulnerables. Por su culpa los habitantes de Celestia se creen la reencarnación de la perfección, ignorando los problemas del mundo inferior. 

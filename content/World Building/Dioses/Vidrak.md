@@ -1,7 +1,9 @@
 ---
 title: Vidrak
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Envidia
 Vidrak gobierna las Montañas de [[Mundo#Caldrin]]. Siembra discordia entre las tribus ya que por su culpa nadie está satisfecho con lo que tiene. Usa la naturaleza de las montañas para fomentar la desconfianza, mostrando a los habitantes imágenes ilusorias de lo que creen que les falta. Bajo su influencia, las tribus y familias se traicionan constantemente, y las alianzas duran poco antes de desmoronarse en una espiral de celos y resentimiento.

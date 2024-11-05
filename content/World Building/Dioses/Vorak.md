@@ -1,7 +1,9 @@
 ---
 title: Vorak
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Gula
 Vorak controla la Selva de [[Mundo#Gluttara]] un lugar donde todo es excesivo y está fuera de control. Este fomenta un ciclo de consumo sin fin, atrapando a las personas en la adicción a la comida, las drogas y a cualquier cosa que puedan devorar. Por su culpa los habitantes de Gluttara están atrapados en un ciclo interminable de glotonería, incapaces de saciar sus deseos. Cuanto más consumen, más vacíos se sienten.

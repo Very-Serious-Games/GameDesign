@@ -1,7 +1,9 @@
 ---
 title: Aurvash
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Avaricia
 Aurvash infunde un deseo insaciable de posesiones a los habitantes del Desierto de [[Mundo#Dorakaar]], llevando a las tribus y ciudades a destruirse mutuamente por riquezas. Aurvash controla a todos desde las sombras, haciendo que la gente nunca se sienta satisfecha con lo que tiene. Siempre quieren más, y este deseo los lleva a traicionar, robar y destruirse mutuamente.

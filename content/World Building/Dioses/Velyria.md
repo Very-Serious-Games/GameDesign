@@ -1,7 +1,9 @@
 ---
 title: Velyria
 draft: false
-tags: Entrega1
+tags:
+  - Entrega1
+  - Dios
 ---
 # El pecado de la Lujuria
 Velyria reina sobre [[Mundo#Aluria]] y se alimenta de los deseos más oscuros de los habitantes, ya sea sexo o cualquier otra forma de placer que les nuble la mente.  Aquellos que caen bajo su influencia pierden la capacidad de distinguir entre el deseo y la manipulación. Velyria ofrece una ilusión de libertad, pero sus seguidores acaban completamente dominados por sus propias pasiones, atrapados en un ciclo de deseo insaciable.
