@@ -1,7 +1,9 @@
 ---
 title: Gluttara
 draft: false
-tags: Entrega1 Región
+tags:
+  - Entrega1
+  - Región
 ---
  La Selva de Gluttara se encuentra llena de plantas enormes y animales que crecen sin control. Los habitantes están perdidos en los excesos, y no solo en la comida, sino en todo lo que puedan consumir: se entregan a fiestas interminables, consumen sustancias extraídas de plantas raras y disfrutan de banquetes desmesurados como si cada día fuera el último.
 

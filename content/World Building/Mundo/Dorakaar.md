@@ -1,7 +1,9 @@
 ---
 title: Dorakaar
 draft: false
-tags: Entrega1 Región
+tags:
+  - Entrega1
+  - Región
 ---
 El Desierto de Dorakaar es un lugar despiadado y caluroso, lleno de minas de oro, gemas y toda clase de riquezas. Los habitantes que viven tienen una obsesión por acumular riqueza hasta niveles patológicos. Las ciudades están en constantes conflictos y guerras por el control de las minas, y nadie confía en nadie. 
 

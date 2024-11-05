@@ -1,7 +1,9 @@
 ---
 title: Letheria
 draft: false
-tags: Entrega1 Región
+tags:
+  - Entrega1
+  - Región
 ---
 Lo que alguna vez fue un paraíso en las Islas de Letheria ahora es un lugar en ruinas. La gente ha perdido toda motivación, y ya nadie tiene interés en hacer nada. Las aldeas están abandonadas, y los barcos se pudren en los puertos sin que nadie se moleste en repararlos. La sensación en estas islas es que el tiempo se ha detenido, y todo se está desmoronando mientras los habitantes observan sin interés cómo el mundo se viene abajo.
 
