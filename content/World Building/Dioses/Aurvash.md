@@ -3,7 +3,7 @@ title: Aurvash
 draft: false
 tags: Entrega1
 ---
-# Aurvash, el pecado de la Avaricia
+# El pecado de la Avaricia
 Aurvash infunde un deseo insaciable de posesiones a los habitantes del Desierto de [[Mundo#Dorakaar]], llevando a las tribus y ciudades a destruirse mutuamente por riquezas. Aurvash controla a todos desde las sombras, haciendo que la gente nunca se sienta satisfecha con lo que tiene. Siempre quieren más, y este deseo los lleva a traicionar, robar y destruirse mutuamente.
 ## Aspecto
 Una figura de un múrido con la piel brillante como oro líquido, siempre adornado con joyas y piedras preciosas que forman parte de su propia carne. Sus ojos brillan como si fueran lingotes de oro puro, que reflejan todo lo que miran, dicen que si lo miras solo verás reflejada tu propia codicia.
