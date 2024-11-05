@@ -2,7 +2,6 @@
 title: Vidrak
 draft: false
 tags:
-  - Entrega1
   - Dios
 ---
 # El pecado de la Envidia
