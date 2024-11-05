@@ -2,6 +2,7 @@
 title: Dioses
 draft: false
 tags:
+  - Entrega1
 ---
 En este mundo los dioses no son las típicas figuras benevolentes ni las entidades lejanas que otorgan bendiciones a los mortales. Aquí, los dioses son manifestaciones corruptas de los pecados capitales. Estas entidades no buscan la devoción pura o la iluminación, sino que se alimentan de la corrupción humana, extendiendo su influencia a través de aquellos que caen en sus tentaciones.
 

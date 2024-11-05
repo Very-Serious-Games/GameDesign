@@ -2,6 +2,7 @@
 title: Tech Tree
 draft: false
 tags:
+  - Entrega1
 ---
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770.1937880724176 599.7009997568657" width="770.1937880724176" height="599.7009997568657">
   <!-- svg-source:excalidraw -->

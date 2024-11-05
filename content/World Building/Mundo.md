@@ -2,6 +2,7 @@
 title: Mundo
 draft: false
 tags:
+  - Entrega1
 ---
 # Vekhara
 Nos encontramos en un mundo en decadencia llamado Vekhara, donde la luz y el equilibrio se extinguieron hace mucho tiempo. Este mundo se encuentra dividido en regiones sumidas en la corrupción y el caos, cada una influenciada por uno de los pecados capitales.

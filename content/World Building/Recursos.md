@@ -2,6 +2,7 @@
 title: Recursos
 draft: false
 tags:
+  - Entrega1
 ---
 En el mundo de Vekhara, las diferentes regiones prosperan gracias a un dinámico sistema de comercio de recursos esenciales, cada uno profundamente ligado a su entorno y estilo de vida.
 

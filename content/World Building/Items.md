@@ -2,6 +2,7 @@
 title: Items
 draft: false
 tags:
+  - Entrega1
 ---
 Dado que Vekhara se divide en regiones tan diferentes, podemos encontrar ítems muy identitarios de cada zona, así como ítems universales. Al tratarse de objetos muy útiles y que sólo se producen en poblaciones determinadas, es muy común el comercio de éstos.
 

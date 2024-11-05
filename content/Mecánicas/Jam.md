@@ -16,7 +16,8 @@ tags:
 - Diferentes armas
 - Progresión lineal por caps
 ## Gestión
-- Currency: Éter
+- Currency: Éter --> se consigue mantando enemigos
+	- Habilidades (efectivamente, es experiencia)
 ## Referencias
 - Bayonetta
 - DMC
