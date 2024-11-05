@@ -4,7 +4,7 @@ draft: false
 tags: Entrega1
 ---
 # Ragnor, el pecado de la Ira
-Ragnor es el señor de las Llanuras de Eshnar. Su presencia aumenta la agresión y el odio, haciendo que las facciones en conflicto nunca puedan alcanzar la paz. Dentro de sus dominios, cualquier tregua se desmorona en cuestión de días, y los ejércitos luchan hasta la muerte sin razón aparente.  
+Ragnor es el señor de las Llanuras de [[Mundo#Eshnar]]. Su presencia aumenta la agresión y el odio, haciendo que las facciones en conflicto nunca puedan alcanzar la paz. Dentro de sus dominios, cualquier tregua se desmorona en cuestión de días, y los ejércitos luchan hasta la muerte sin razón aparente.
 ## Aspecto
 Coloso musculoso, su cuerpo está cubierto de cicatrices profundas. Sostiene una espada inmensa que no para de gotear sangre fresca, incluso cuando no está en combate. A su alrededor, el aire está cargado de energía violenta, lo que hace que cualquier ser vivo que se acerque sienta su propia sangre hervir de ira.
 

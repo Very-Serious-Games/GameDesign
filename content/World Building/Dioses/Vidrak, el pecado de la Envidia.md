@@ -4,7 +4,7 @@ draft: false
 tags: Entrega1
 ---
 # Vidrak, el pecado de la Envidia
-Vidrak gobierna las Montañas de Caldrin. Siembra discordia entre las tribus ya que por su culpa nadie está satisfecho con lo que tiene. Usa la naturaleza de las montañas para fomentar la desconfianza, mostrando a los habitantes imágenes ilusorias de lo que creen que les falta. Bajo su influencia, las tribus y familias se traicionan constantemente, y las alianzas duran poco antes de desmoronarse en una espiral de celos y resentimiento.
+Vidrak gobierna las Montañas de [[Mundo#Caldrin]]. Siembra discordia entre las tribus ya que por su culpa nadie está satisfecho con lo que tiene. Usa la naturaleza de las montañas para fomentar la desconfianza, mostrando a los habitantes imágenes ilusorias de lo que creen que les falta. Bajo su influencia, las tribus y familias se traicionan constantemente, y las alianzas duran poco antes de desmoronarse en una espiral de celos y resentimiento.
 ## Aspecto
 Criatura reptiliana con un cuerpo largo y escamoso que se desliza por las sombras. A lo largo de su cuerpo, hay cientos de ojos que se abren y cierran constantemente, observando todo a su alrededor. Cada ojo ve los deseos ocultos y los celos de aquellos que lo rodean. Su lengua bífida es larga y afilada, siempre lista para susurrar mentiras en los oídos de los incautos.
 
