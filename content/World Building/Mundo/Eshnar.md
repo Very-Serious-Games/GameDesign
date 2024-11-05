@@ -2,8 +2,8 @@
 title: Eshnar
 draft: false
 tags:
-  - Entrega1
   - Región
+  - Eshnar
 ---
 Las Llanuras de Eshnar son un campo de batalla eterno, un sitio donde la paz ni se plantea. Esta zona sin tregua ha sido un campo de batalla desde hace siglos, y la gente aquí lleva tanto tiempo en guerra que ya nadie recuerda el motivo de los conflictos. Las leyes no existen, solo sobrevive el más fuerte, y los ejércitos se enfrentan sin descanso en un ciclo eterno de odio y sangre.
 
