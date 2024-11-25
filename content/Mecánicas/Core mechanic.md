@@ -47,9 +47,19 @@ Cada pecado otorga un arma y una transformación única al ser derrotados.
 
 Una vez que obtienes las armas de los pecados, puedes regresar a zonas previas para descubrir secretos inaccesibles anteriormente, potenciando la exploración y aumentando la conexión entre gameplay y lore.
 
-# **Género del Juego: Hack-and-Slash**
+# **Género del Juego: Hack and Slash**
 
-El juego pertenece al género **Hack-and-Slash**, un juego de acción rápida y estilizada donde el foco está en el dominio del combate cuerpo a cuerpo, la variedad de estilos de pelea y el espectáculo visual. Este género se caracteriza por su énfasis en la agilidad del jugador para alternar armas y habilidades.
+El juego pertenece al género Hack and Slash, un juego de acción rápida y estilizada donde el foco está en el dominio del combate cuerpo a cuerpo, la variedad de estilos de pelea y el espectáculo visual. Este género se caracteriza por su énfasis en la agilidad del jugador para alternar armas y habilidades.
 
 ## ¿Por qué funciona esta mecánica?
 
+- Estilo y Fluidez en Combate:
+	Cada arma y transformación demoníaca introduce un set único de combos, movimientos y mecánicas especiales que encajan en la fórmula hack and slash, premiando a los jugadores por alternar armas y experimentar con sinergias entre habilidades.
+- Estilos de Combate Únicos y Adaptativos:
+	Cada arma desbloqueada redefine el estilo de juego del jugador. Esto fomenta la experimentación, ya que cada arma ofrece movimientos, velocidades y estrategias distintas, adecuándose a diferentes tipos de enemigos y situaciones.
+- Transformaciones Rápidas y Visualmente Impactantes:
+	Las formas demoníacas no solo potencian el combate, sino que ofrecen momentos espectaculares. Cambiar a una forma como Pereza para detener el tiempo y devastar enemigos otorga un sentido de control absoluto, mientras que la transición visual entre humano y demonio añade espectáculo.
+- Fluidez y Variedad en el Ritmo:
+	Cambiar entre armas y formas demoníacas en pleno combate crea un dinamismo que amplifica la sensación de poder. El género hack-and-slash se presta naturalmente a esta fluidez, haciendo que cada enfrentamiento sea único y emocionante, incluso al repetir zonas o encuentros.
+- Narrativa y Gameplay Fusionados:
+	Este género permite que el diseño de las armas y las transformaciones reflejen no solo habilidades mecánicas, sino también la esencia del pecado asociado. Esto añade peso emocional a cada conquista y refuerza la conexión entre el combate estilizado y la narrativa del juego.
