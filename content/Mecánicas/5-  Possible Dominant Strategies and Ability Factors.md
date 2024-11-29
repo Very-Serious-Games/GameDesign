@@ -2,6 +2,7 @@
 
 Dada la amplia variedad de armas y habilidades a las que puede acceder un jugador, es importante analizar las posibles estrategias existentes para localizar las más efectivas y favorecedoras, y balancear el juego en consecuencia.
 Los aspectos a considerar que más fácilmente podrían sobresalir sobre otros serían el uso de las transformaciones demoníacas y las armas adquiridas.
+
 **Tranformaciones demoníacas:** Son muy poderosas y  proporcionan una ventaja considerable. En caso de no estar bien balanceadas, se puede abusar de ellas utilizándolas constantemente y combinándolas durante el combate y exploración.
 Un ejemplo de posible estrategia dominante sería el uso constante de la transformación demoníaca al máximo priorizando los recursos para que se mantenga activa. (revisar)
 
@@ -10,7 +11,12 @@ Por ejemplo, tenemos el *Látigo Carmesí* que permite mantener a los enemigos a
 
 Por otro lado, nos encontramos con la **Combinación de habilidades** que hace posible el cambio de arma durante el combate, así como usar habilidades de diferentes formas demoníacas. Esta capacidad extra puede generar combinaciones extremadamente fuertes (p. ej. la combinación de la forma demoníaca de Pereza, ralentizar el tiempo, con el ataque del *Látigo Carmesí* de Lujuria). Se pueden crear estrategias dominantes si se priorizan ciertas sinergias y se maximizan combos que controlen el entorno (como el comentado previamente de ralentizar enemigos y atacar con combos aéreos).
 
-Por último, es importante tener en cuenta el factor de la Corrupción como riesgo calculado: si el sistema de Corrupción recompensa el uso de las transformaciones así como las decisiones arriesgadas sin poner ningún tipo de penalización inmediata, el jugador podría abusar del aumento de poder que se obtiene con ellas, sobre todo en las primeras etapas.
+Por último, es importante tener en cuenta el factor de la Corrupción como riesgo calculado: si el sistema de Corrupción "recompensa" el uso de las transformaciones así como las decisiones arriesgadas sin poner ningún tipo de penalización inmediata, el jugador podría abusar del aumento de poder que se obtiene con ellas, sobre todo en las primeras etapas.
+
+**Posibles Soluciones:**
+Realizar una sesión de testing en la que se pueda confirmar la diferencia o no de dominancia de ciertas combinaciones o estrategias. 
+Basándose en los resultados, implementar (o aumentar) una penalización gradual por el abuso de ciertas mecánicas. Un ejemplo podría ser una penalización inmediata por Corrupción Alta en combate, más limitaciones en la obtención de los recursos necesarios para usar formas demoníacas, entre otros.
+
 # Factores de Habilidad
 
 
