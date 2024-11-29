@@ -19,5 +19,16 @@ Basándose en los resultados, implementar (o aumentar) una penalización gradual
 
 # Factores de Habilidad
 
+Dada la amplia variedad de opciones de ataque y defensa de las que dispone un jugador, si juega bien sus cartas y contando con el factor humano es totalmente posible la victoria de este contra un bot/enemigo con menor inteligencia (artificial).
 
+Un jugador (humano) tiene diferentes técnicas a las que recurrir para lograr su victoria:
+- El jugador tiene la capacidad de experimentar de forma creativa y encontrar **combinaciones de combos y armas** que quizás una IA menos avanzada no aprovecharía de la misma manera. Una situación de ejemplo la encontraríamos en medio de un combate en el que el jugador cambiase de arma para activar movimientos específicos y únicos.
+- El jugador puede adaptar su estilo de juego al entorno y a los enemigos a tiempo real y **jugando de forma estratégica**, acción que sería más difícil para un enemigo programado con un número específico de patrones.
+- El jugador humano tiene capacidad de observación, y dependiendo de su buena habilidad en ese aspecto, será capaz de **leer los patrones de ataque** de los enemigos, así como preverlos y explotar sus puntos débiles. 
+- Parte de la capacidad estratégica del jugador puede gestionar y priorizar el uso de recursos de una manera más eficiente o conveniente, guardándolos para momentos clave del juego. Por ejemplo, no activar la forma demoníaca de Ira hasta llegar a una bossfight.
+
+-REVISAR aixo i modificar basant-me més en les nostres armas/mecan. + AFEGIR exemples nostres-
+A pesar de todas las ventajas de las que dispone un jugador humano (mejores o peores según su ingenio y práctica), aún pueden darse situaciones en las que podría verse en desventaja frente a un enemigo. 
+Si los bots tienen acceso a mejoras o ventajas estadísticas de las que pueden abusar (más daño, más salud, más vida) y no requieren que jueguen de forma estratégica o según el sistema de Corrupción/árbol de habilidades, podría producir una "sensación de desventaja o injusticia" al jugador humano.
+(REVISAR i assegurarme)Nuestro diseño de armas, ataques y mecánicas están concebidos y meditados para evitar al máximo esta clase desbalances entre enemigos y jugadores y ofrecer una experiencia buena e interesante.
 # Testing
