@@ -37,6 +37,16 @@ Por ejemplo, Pereza, con su habilidad para ralentizar el tiempo, transforma una 
 
 ---
 
+| **Personaje**  | **Salud** | **Daño** | **Velocidad** | **Defensa** | **Habilidad Especial** |
+|----------------|-----------|----------|---------------|-------------|------------------------|
+| **Lujuria**    | 80        | 40       | 100           | 30          | Atracción de enemigos, combos aéreos |
+| **Gula**       | 150       | 60       | 40            | 90          | Drenaje de vida al impactar |
+| **Ira**        | 120       | 100      | 60            | 70          | Daño incrementado al estar bajo de salud |
+| **Envidia**    | 100       | 50       | 90            | 50          | Clon espectral que replica ataques |
+| **Pereza**     | 130       | 50       | 30            | 100         | Ralentización de tiempo en área pequeña |
+| **Soberbia**   | 140       | 70       | 70            | 80          | Ondas de energía destructivas |
+| **Avaricia**   | 110       | 80       | 70            | 60          | Clones de oro para ataques en área |
+
 ## **Una Comparativa Entre Pecados**
 
 Para entender cómo estas estadísticas interactúan entre sí, aquí hay un vistazo narrativo a cada personaje:
