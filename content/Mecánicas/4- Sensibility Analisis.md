@@ -55,5 +55,3 @@ El equilibrio en las estadísticas de los personajes es crucial para mantener un
 Este sistema no solo mejora la jugabilidad, sino que también permite al jugador sentir un crecimiento tangible a lo largo del juego, mientras se enfrenta a los pecados capitales y absorbe su poder.
 
 ---
-
-Si tienes alguna otra corrección o adición, estaré encantado de ayudarte a adaptarlo aún más. ¡Solo avísame!
