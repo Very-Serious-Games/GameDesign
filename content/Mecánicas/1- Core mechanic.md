@@ -1,5 +1,5 @@
 ---
-title: Core mechanic
+title: 1. Core mechanic
 draft: false
 tags:
 ---

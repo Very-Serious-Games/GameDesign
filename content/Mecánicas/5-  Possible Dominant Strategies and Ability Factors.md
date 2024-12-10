@@ -1,5 +1,5 @@
 ---
-title: Possible Dominant Strategies and Ability Factors
+title: 5. Possible Dominant Strategies and Ability Factors
 draft: false
 tags:
 ---

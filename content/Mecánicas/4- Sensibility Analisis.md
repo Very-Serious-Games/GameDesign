@@ -1,8 +1,7 @@
 ---
-title: Sensibility Analisis
+title: 4. Sensibility Analisis
 draft: false
 tags:
-  - Dios
 ---
 ### Análisis de Sensibilidad
 

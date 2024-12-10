@@ -1,5 +1,5 @@
 ---
-title: Extra mechanics
+title: 2. Extra mechanics
 draft: false
 tags:
 ---
