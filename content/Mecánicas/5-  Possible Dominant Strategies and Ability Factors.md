@@ -1,3 +1,8 @@
+---
+title: Possible Dominant Strategies and Ability Factors
+draft: false
+tags:
+---
 # Estrategias Dominantes
 
 Dada la amplia variedad de armas y habilidades a las que puede acceder un jugador, es importante analizar las posibles estrategias existentes para localizar las más efectivas y favorecedoras, y balancear el juego en consecuencia.

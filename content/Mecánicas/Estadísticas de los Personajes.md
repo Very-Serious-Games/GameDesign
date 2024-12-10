@@ -1,3 +1,8 @@
+---
+title: Estadísticas de los Personajes
+draft: false
+tags:
+---
 Las estadísticas de los personajes son fundamentales para comprender el crecimiento y la progresión del protagonista dentro del juego. Cada personaje, asociado a uno de los pecados capitales, tiene un conjunto de estadísticas que afectan directamente a su rendimiento en combate, como los **Puntos de Salud**, **Daño**, **Velocidad**, entre otras. Estas estadísticas no solo deben estar bien equilibradas, sino también diferenciadas para reflejar las fortalezas y debilidades de cada pecado capital.
 
 Las armas y las formas demoníacas obtenidas tras derrotar a cada uno de los demonios modifican estas estadísticas, aportando nuevas características al jugador. La evolución de las estadísticas a lo largo del juego ofrece una sensación de poder creciente y de toma de decisiones estratégicas en la batalla.

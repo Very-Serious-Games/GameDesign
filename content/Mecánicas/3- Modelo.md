@@ -1,2 +1,6 @@
-
+---
+title: Modelo
+draft: false
+tags:
+---
 En este apartado, puedes acceder a una versión prototipo del juego. Esta build es un prototipo en desarrollo que contiene el desplazamiento del personaje y las habilidades de armas. Para acceder a la build, haz clic en el siguiente enlace a nuestra release de GitHub([https://github.com/Very-Serious-Games/Vekhara-Prototype/releases/tag/v0.2](https://github.com/Very-Serious-Games/Vekhara-Prototype/releases/tag/v0.2 "https://github.com/Very-Serious-Games/Vekhara-Prototype/releases/tag/v0.2")). Ten en cuenta que esta versión está destinada a realizar pruebas.

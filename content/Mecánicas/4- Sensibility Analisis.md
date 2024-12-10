@@ -1,3 +1,9 @@
+---
+title: Sensibility Analisis
+draft: false
+tags:
+  - Dios
+---
 ### Análisis de Sensibilidad
 
 El análisis de sensibilidad tiene como objetivo evaluar cómo los cambios en los parámetros del prototipo afectan la jugabilidad y el comportamiento del personaje. En este caso, el prototipo permite al personaje correr, saltar, desplazarse por el entorno y cambiar de armas.

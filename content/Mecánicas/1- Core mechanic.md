@@ -1,3 +1,8 @@
+---
+title: Core mechanic
+draft: false
+tags:
+---
 # **Progresión basada en Conquista**
 ## Concepto de Evolución
 Cada vez que derrotas a uno de los demonios de los pecados capitales, obtienes su arma característica y te puedes transformar en un ser parecido al demonio gracias a la esencia de este que aún habita en el arma. El sistema está diseñado para que el jugador sienta un crecimiento tangible, tanto en poder como en opciones estratégicas, a medida que avanza.

@@ -1,3 +1,8 @@
+---
+title: Extra mechanics
+draft: false
+tags:
+---
 ## 1. Sinergias entre Formas y Exploración
 Las formas demoníacas no solo ofrecen ventajas en combate, sino que también desbloquean nuevas formas de interactuar con el entorno, incentivando la exploración y añadiendo profundidad a los niveles.
 
