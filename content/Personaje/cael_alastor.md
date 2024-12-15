@@ -1,32 +1,32 @@
 ---
-title: Personaje
+title: Cael Alastor
 draft: true
 tags:
+  - Personaje
 ---
 1. ¿Cuál es su nombre completo?
 
 Cael Alastor
 
-2. ¿Tiene algún apodo?
-
-TODO
-
 3. ¿Cómo es físicamente?
 
-Complexión atletica, cabello blanco, ojos color marron, lleno de cicatrices por las batallas.
+- Complexión atletica
+- Cabello blanco
+- Ojos castaños
+- Lleno de cicatrices por las batallas
 
 4. ¿Dónde y cuándo ha nacido?
 
 - Esclavo vendido
-- Nacido en un lugar poco relevante y abandonado en X
+- Nacido en un lugar poco relevante y abandonado en #Eshnar 
 - Hibrido entre demonio y humano.
 
 6. ¿Quienes son (o fueron) sus padres?
 
-- Peride: La madre, humana de pueblo, baja cuna.
-- Erebus: El padre, un demonio, el comandante del batallón que arrasó el pueblo de la madre.
+- [[peride]]
+- [[erebus]]
 
-8. ¿Tiene hermanos? ¿Cómo son?
+7. ¿Tiene hermanos? ¿Cómo son?
 
 No
 
@@ -42,27 +42,13 @@ Cazarecompensas: se dedica a ir matando demonios por el mundo.
 
 Sigue siendo de baja cuna, pero poco a poco se va labrando un nombre.
 
-15. ¿Tiene alergias, debilidades físicas, miembros atrofiados o enfermedades?
-
-Tiene muchas cicatrices por todo el cuerpo, destacando un corte en la mejilla.
-
 17. ¿Qué transmite a la gente cuando habla? ¿Cómo suena su voz?
 
 Voz grave, con actitud chulesca, no suele caer bien.
 
-19. ¿Tiene alguna frase o coletilla característica al hablar?
-
-No.
-
-21. ¿Qué lleva en los bolsillos normalmente?
-
-Equipamiento de combate, amuleto de su padre que utiliza para localizarlo.
-
-TODO
-
 23. ¿Tiene tics, manías, hábitos extraños u otras características que le definan?
 
-TODO
+Intenta evitar ver su reflejo, ya que le da asco su mitad demonio.
 
 25. ¿Tiene algún objeto, herramienta o instrumento que lleve consigo a todas partes?
 
@@ -71,29 +57,27 @@ Amuleto de su padre que utiliza para localizarlo.
 
 16. ¿Por quién fue educado y criado?
 
-TODO
-
-18. ¿Qué vínculos fuertes creó durante su infancia? ¿Aún se mantienen?
-
-TODO
+Un antiguo exorcista de demonios llamado X.
 
 18. ¿Qué relación tuvo y tiene con su padres y familia?
 
-La madre murió cuando el protagonista tenía ~7 años.
+La madre, [[peride]] murió cuando el protagonista tenía ~7 años.
 
 El padre, TODO
 
 19. ¿Quienes son sus seres más queridos?
 
-TODO
+Su madre (muerta).
+
+Su mentor, mr X (muerto también)
 
 21. ¿Odia o desprecia a alguien? ¿A quién y por qué?
 
-A su padre. Porque? TODO
+A su padre. Porque? Porque mató a su madre.
 
 23. ¿Cuándo y de quién se enamoró por primera vez?
 
-Nadie
+Nadie, no conoce el amor 
 
 26. ¿Está actualmente enamorado de alguien?
 
@@ -109,37 +93,48 @@ TODO
 
 ## **Crecimiento**
 
-26. ¿Cuál es su recuerdo más temprano?
+28. ¿En qué se ha curtido? ¿Qué estudios tiene?
 
-27. ¿En qué se ha curtido? ¿Qué estudios tiene?
+Puro putiazo, no sabe ni contar.
 
-28. ¿Cómo fue su infancia? ¿Fue feliz? ¿Qué le gustaba hacer?
+30. ¿Cómo fue su infancia? ¿Fue feliz? ¿Qué le gustaba hacer?
 
-29. ¿Y su juventud?
+Jodida.
+
+32. ¿Y su juventud?
+
+Aun peor.
 
 30. ¿Qué eventos fueron determinantes en su crecimiento?
 
+Sus seres queridos se murieron.
 ## **Confesiones**
 
 31. ¿Cuál ha sido su mayor logro en la vida?
 
-32. ¿Qué es de lo que más se arrepiente?
+Seguir vivo.
 
-33. ¿Qué es lo más cruel que ha hecho en su vida?
+33. ¿Qué es de lo que más se arrepiente?
 
-34. ¿En qué momento de su vida sintió más miedo?
+No salvar a su madre
 
-35. ¿Qué es lo más embarazoso que ha hecho?
+37. ¿En qué momento de su vida sintió más miedo?
 
-36. ¿Qué cambiaría de su vida si pudiera?
+- Cuando descubrió que era medio deomonio
 
-37. ¿Cuál es su mejor recuerdo?
+40. ¿Qué cambiaría de su vida si pudiera?
 
-38. ¿Y su peor recuerdo?
+Nacer
 
-39. ¿Qué es lo que más ambiciona?
+42. ¿Cuál es su mejor recuerdo?
 
-40. ¿Quién ha tenido mayor influencia en él o ella?
+
+
+44. ¿Y su peor recuerdo?
+
+45. ¿Qué es lo que más ambiciona?
+
+46. ¿Quién ha tenido mayor influencia en él o ella?
 
 ## **Conducta y Moral**
 
