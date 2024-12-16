@@ -61,7 +61,7 @@ Un antiguo exorcista de demonios llamado X.
 
 18. ¿Qué relación tuvo y tiene con su padres y familia?
 
-La madre, [[peride]] murió cuando el protagonista tenía ~7 años.
+La madre, [[peride]] murió cuando el protagonista tenía ~5 años.
 
 El padre, TODO
 

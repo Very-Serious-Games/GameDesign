@@ -5,6 +5,6 @@ tags:
   - Personaje
 ---
 La madre, humana de pueblo, baja cuna.
-- Madre del prota
+- Madre de Cael
 - Muerta
-- Nacida en X
+- Nacida y criada en un pequeño pueblo cercano a Eshnar (ahora dentro de territorio)

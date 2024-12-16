@@ -5,7 +5,7 @@ tags:
   - Personaje
 ---
 El padre, un demonio, el comandante del batallón que arrasó el pueblo de la madre.
-- Padre del prota
+- Padre de Cael
 - Vivo
-- Nacida en X
-- Es general de noseque polla
+- Nacido en desconocido
+- Es general del principal ejercito de #Ragnor
