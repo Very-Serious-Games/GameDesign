@@ -17,6 +17,7 @@ Cael deberá enfrentarse no solo a su poder físico sino también al vínculo in
 
 Erebus es un demonio de gran estatura y robustez. Con una altura de 2,5 metros, su cuerpo ancho está recubierto de una armadura impenetrable forjada en un metal oscuro con fragmentos de obsidiana: tiene un acabado que absorbe la luz, y se encuentra recubierta de púas y espinas que le dan un aspecto imponente e infernal. Lleva equipado un casco cerrado de grandes dimensiones con el mismo diseño demoníaco que la armadura y con dos cuernos afilados que le ayudan en batalla.
 Porta una espada masiva (Onyx Reap) con bordes dentados para causar el máximo daño posible y arrancar pedazos de carne de sus contrincantes. La hoja está decorada con runas demoníacas que emiten luz carmesí al atacar. 
+
 Erebus emite un aura amenazante, su armadura absorbente de luz le añade la sensación de tratarse de la misma extensión de las sombras.
 
 ## Estadísticas
