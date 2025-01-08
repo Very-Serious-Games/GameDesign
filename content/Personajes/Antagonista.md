@@ -1,5 +1,5 @@
 ---
-title: 4- Antagonista
+title: 4. Antagonista
 tags:
   - Personaje
   - Eshnar
@@ -30,8 +30,11 @@ Erebus emite un aura amenazante, su armadura absorbente de luz le añade la sens
 
 ## Estadísticas
 
-Puntos de salud
+Teniendo en cuenta el rol de Erebus de antagonista principal, queremos que se muestre como un enemigo altamente poderoso y resistente. Su presencia tiene que impactar y suponer un desafío al personaje principal. El daño infringido por Erebus debe ser mucho mayor que el de las armas de Cael, pero no debería ser capaz eliminarlo de un solo golpe (a menos que sea un ataque especial, fácil de esquivar o similar).
 
-Daño
+**Salud (HP):** 
+- 15.000 de valor inicial
 
-Velocidad
+**Daño:**
+- 150 - 200 por golpe básico.
+- 400 por golpes de habilidad especial.

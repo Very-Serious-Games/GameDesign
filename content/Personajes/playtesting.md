@@ -1,5 +1,5 @@
 ---
-title: 6- Playtesting
+title: 6. Playtesting
 draft: false
 tags:
 ---

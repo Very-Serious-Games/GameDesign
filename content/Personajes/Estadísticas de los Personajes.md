@@ -1,5 +1,5 @@
 ---
-title: 5- Estadísticas de los Personajes
+title: 5. Estadísticas de los Personajes
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: 2- Personaje Principal
+title: 2. Personaje Principal
 draft: false
 tags:
   - Personaje
