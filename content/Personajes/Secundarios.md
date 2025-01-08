@@ -16,6 +16,8 @@ tags:
 - **Relación destacada:** Madre de Cael Alastor, antigua pareja de Erebus
 - **Primera aparición:** Mencionada en los recuerdos de Cael
 
+![[Pasted image 20250108224300.png]]
+
 Peride era una mujer de apariencia sencilla, pero de una belleza serena y natural que destacaba en su aldea. Tenía cabello oscuro, que solía llevar recogido en una trenza, y ojos verdes brillantes que transmitían calidez y sabiduría. Su piel estaba curtida por años de trabajo en los campos, y sus manos, aunque delicadas, eran fuertes y firmes. Siempre vestía ropa modesta, práctica para el trabajo agrícola, pero cuidaba los pequeños detalles que la hacían especial, como llevar un pequeño colgante que simbolizaba la protección de su familia.
 
 Peride fue una mujer valiente, decidida y profundamente empática. Se dedicaba a cuidar a los enfermos y necesitados de su aldea, ganándose el respeto y cariño de sus vecinos. A pesar de vivir en condiciones duras, siempre encontraba motivos para sonreír y seguir adelante. Su fortaleza radicaba en su capacidad para mantener la calma en situaciones difíciles y en su inquebrantable amor por su hijo, Cael.
@@ -55,6 +57,7 @@ El sacrificio de Peride es la razón principal por la que Cael rechaza su natura
 **Relación destacada:** Mentor de Cael Alastor  
 **Primera aparición:** Cuando Cael fue vendido como esclavo
 
+![[Pasted image 20250108224310.png]]
 ### **Historia y Origen de Xyran**
 
 Xyran nació en una región remota de Eshnar, lejos de las tensiones bélicas que sacudían la mayor parte del continente. Desde joven, se sintió atraído por el estudio de las fuerzas oscuras y el conocimiento esotérico sobre los demonios, fascinación que lo llevó a convertirse en un erudito autodidacta. No obstante, su interés por lo sobrenatural no era puramente académico. Xyran había perdido a su familia en un ataque demoníaco cuando era niño, lo que lo motivó a buscar un modo de proteger a los demás del mal que había arrasado con su vida.
