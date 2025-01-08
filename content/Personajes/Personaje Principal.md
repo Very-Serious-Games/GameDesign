@@ -62,10 +62,83 @@ Su meta no es solo derrotarlo físicamente, sino destruir también su influencia
 
 Sin embargo, Cael se enfrenta a un dilema interno: su conexión de sangre con Erebus es un vínculo que no se puede ignorar, y aunque le odia, teme que al enfrentarlo no solo deba luchar contra su padre, sino también contra sí mismo. El vínculo que comparten podría tentar su lado demoníaco y corromperlo, convirtiéndolo en aquello que más detesta.
 
-## **Stats**
+## **Estadísticas del personaje**
 
-Puntos de salud
+### **Salud (HP):**
+Su baja salud inicial es debido a su vulnerabilidad humana, pero su capacidad para absorber el poder demoníaco le permite crecer significativamente a medida que avanza.
+- **Valor inicial:** 150  
+- **Crecimiento:** +50 HP al derrotar a Demonios Mayores.  
+### **Daño:**
+El daño depende del arma equipada, cada una con su estilo único:
 
-Daño
+**Látigo Carmesí:**
+Un arma rápida y ágil que favorece combos aéreos y movilidad.
+  - Daño: 35
+  - Velocidad de ataque (AS): 1.5
+  - Movimiento (MS): +10%
 
-Velocidad
+**Mandíbula Voraz:**
+Un arma lenta pero devastadora, ideal para combates prolongados y sostenibilidad.
+  - Daño: 85
+  - Velocidad de ataque (AS): 0.7
+  - Movimiento (MS): -10%
+  - Efecto especial: +5% Leech (drena vida con cada golpe).
+
+ **Garra de Vorak:**
+ Buena opción para priorizar rapidez y golpes críticos precisos.
+  - Daño: 40
+  - Velocidad de ataque (AS): 2.0
+  - Movimiento (MS): +5%
+  - Efecto especial: +10% probabilidad de crítico. 
+
+ **Espada de Cenizas:**
+ Ideal para enfrentamientos arriesgados en los que el jugador está cerca de la muerte, potenciando su daño.
+  - Daño: 55
+  - Velocidad de ataque (AS): 1.0
+  - Efecto especial: +1% daño adicional por cada 2% de HP faltante.
+
+**Espiral de Letheria:**
+Un arma estratégica para controlar el flujo del combate.
+  - Daño: 25
+  - Velocidad de ataque (AS): 1.0
+  - Movimiento (MS): -5%
+  - Efecto especial: Ralentiza un 30% a los enemigos en un área al usar habilidades.
+
+**Lanza del Enjambre:**
+Causa daño masivo en ráfagas cortas.
+  - Daño: 45
+  - Velocidad de ataque (AS): 1.2
+  - Efecto especial: 50% más de daño por 3 segundos al usar habilidades.
+
+**Corona Fragmentada:**
+Balance entre ataque y defensa, permitiendo bloquear mientras realiza ataques decentes.
+  - Daño: 50
+  - Velocidad de ataque (AS): 0.85
+  - Movimiento (MS): -5%
+
+### **Velocidad de Movimiento (MS):**
+Base: Normalmente neutral, pero modificada por las armas:
+  - **+10%** con el Látigo Carmesí.
+  - **-10%** con la Mandíbula Voraz.
+  - **+5%** con la Garra de Vorak.
+  - **-5%** con el Espiral de Letheria y la Corona Fragmentada.
+
+### **Poder Demoníaco (DP):**
+Base: 100 puntos de energía demoníaca.
+- **Uso:** Necesario para activar transformaciones demoníacas.
+- **Recarga:** Regeneración al infligir daño o ejecutar combos perfectos.
+
+### **Resistencia Demoníaca:**
+Base: 50% de reducción de daño mágico.
+- **Crecimiento:** Incrementa un 5% al derrotar a cada demonio de los Pecados Capitales.
+
+### **Transformaciones Demoníacas:**
+Cada arma otorga una transformación única que modifica temporalmente los stats de Cael. 
+
+#### Rejugabilidad y Personalización
+
+- **Sinergias entre Armas:**
+Cael puede combinar habilidades. Por ejemplo, ralentizar enemigos con el Báculo de Letheria y luego golpearlos con la Espada de Cenizas para maximizar el daño.
+
+- **Árbol de Habilidades:**
+Cada arma puede evolucionar y desbloquear habilidades adicionales con recursos obtenidos en el juego.
