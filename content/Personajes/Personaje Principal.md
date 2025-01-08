@@ -6,7 +6,7 @@ tags:
 ---
 ## Cael Alastor
 
-Cael Alastor, originario de Eshnar es un guerrero y cazarrecompensas curtido.
+Cael Alastor, originario de Eshnar, es un guerrero y cazarrecompensas curtido.
 
 ![Cael](https://i.pinimg.com/736x/c1/9f/dc/c19fdc9fa0e780a6edc0e052f2888084.jpg) ![Cael dressed up](https://i.pinimg.com/736x/ba/af/db/baafdbf64bae3ec69d79326296bcfd11.jpg)
 
