@@ -6,7 +6,7 @@ tags:
 ---
 ## Cael Alastor
 
-Cael Alastor, originario de Eshnar es un guerrero curtido y nuestro protagonista.
+Cael Alastor, originario de Eshnar es un guerrero y cazarrecompensas curtido.
 
 ![Cael](https://i.pinimg.com/736x/c1/9f/dc/c19fdc9fa0e780a6edc0e052f2888084.jpg) ![Cael dressed up](https://i.pinimg.com/736x/ba/af/db/baafdbf64bae3ec69d79326296bcfd11.jpg)
 
@@ -31,149 +31,41 @@ Lleva consigo a todas partes un antiguo amuleto que había pertenecido a Erebus,
 
 ## **Relaciones**
 
-16. ¿Por quién fue educado y criado?
+Hasta los 5 años vivió con su madre pero recuerda poco sobre esa época. Después de su muerte, fue secuestrado y vendido como esclavo a un antiguo exorcista de demonios llamado X. Se dió la casualidad que X lo vió en el mercado negro y percibió algo en el niño imperceptible para cualquier otra persona que careciera de habilidades demoníacas o estudios de ese sector. 
 
-Un antiguo exorcista de demonios llamado X.
+Creció y fue educado por X hasta que fue lo suficientemente mayor para valerse por sí mismo.
 
-18. ¿Qué relación tuvo y tiene con su padres y familia?
+Con su padre no mantiene ningún tipo de relación, le odia profundamente por ser el responsable de su naturaleza demoníaca y le culpa por la muerte de Peride.
+Sus únicos seres queridos son su difunta madre y su mentor, asesinado años atrás. En general no tiene ninguna otra relación trascendental. 
 
-La madre, [[peride]] murió cuando el protagonista tenía ~5 años.
-
-El padre, TODO
-
-19. ¿Quienes son sus seres más queridos?
-
-Su madre (muerta).
-
-Su mentor, mr X (muerto también)
-
-21. ¿Odia o desprecia a alguien? ¿A quién y por qué?
-
-A su padre. Porque? Porque mató a su madre.
-
-23. ¿Cuándo y de quién se enamoró por primera vez?
-
-Nadie, no conoce el amor 
-
-26. ¿Está actualmente enamorado de alguien?
-
-No
-
-24. ¿Qué clase de personas le simpatizan más?
-
-TODO
-
-25. ¿Qué clase de personas aborrece?
-
-TODO
+Nunca se ha enamorado ni ha mantenido una relación amorosa duradera con nadie. No le da importancia a ese aspecto de su vida.
 
 ## **Crecimiento**
 
-28. ¿En qué se ha curtido? ¿Qué estudios tiene?
+A pesar de no tener estudios oficiales, su maestro le formó en las artes demoníacas y adquirió todos los conocimientos necesarios para poder ganarse la vida como Cazador de demonios. Tuvo una infancia dura, y empezó su formación des del momento en el que fue comprado por X. Su determinación por acabar con todos los demonios que azotaban los pueblos de #Eshnar le llevó a mejorar rápidamente y a alcanzar un nivel mortífero muy raro a su edad.
 
-Puro putiazo, no sabe ni contar.
+Aprendió a usar su parte demoníaca como catalizador para su fuerza y habilidades de lucha, sin caer en la tentación de dejarse dominar por completo por ella. A base de un duro entrenamiento consiguió mantener sus dos naturalezas en equilibrio, lo que le otorgó una serie de capacidades fuera de lo común y nunca vistas en Vekhara.
 
-30. ¿Cómo fue su infancia? ¿Fue feliz? ¿Qué le gustaba hacer?
+A lo largo de su vida, Cael considera que su mayor logro no es otro que el de seguir vivo. Sobrevivir a la muerte de su madre, a su secuestro por los traficantes de personas y a los innumerables peligros de su profesión han sido un desafío constante que le ha marcado profundamente: la muerte de sus seres queridos fue determinante para formar su personalidad y objetivos. Cada cicatriz de su cuerpo es un recordatorio de sus batallas pasadas y le empuja a salir adelante.
 
-Jodida.
+Sin embargo, su mayor arrepentimiento es no haber podido salvar a su madre. Aunque era solo un niño cuando ella murió, la culpa lo acompaña constantemente. El sentimiento empeora al recordar cómo su propia existencia, fruto de la unión entre un demonio y una humana, contribuyó al trágico desenlace.
 
-32. ¿Y su juventud?
+El momento de mayor miedo en su vida llegó poco después de la muerte de Peride, cuando Cael, que había descubierto no hacía mucho su verdadera naturaleza, pudo comprobar las consecuencias y habilidades de su lado demoníaco.
 
-Aun peor.
+Si pudiera cambiar algo de su vida, Cael desearía no haber nacido. Aunque ha aprendido a utilizar y dominar su mitad demoníaca como una herramienta, nunca ha aceptado esa parte de sí mismo. Su existencia es una lucha constante, un conflicto interno que lo atormenta desde su infancia.
 
-30. ¿Qué eventos fueron determinantes en su crecimiento?
+## **Metas y Objetivos**
 
-Sus seres queridos se murieron.
-## **Confesiones**
+Desde que descubrió la verdad sobre su linaje y naturaleza, el objetivo principal que ha guiado la vida de Cael es encontrar y destruir a Erebus, su padre, no solo para vengar la muerte de su madre, sino también para librarse de la carga que supone su mitad demoníaca. Aunque va realizando misiones como cazarrecompensas para poder ganarse la vida, en el fondo y a largo plazo, cada demonio que elimina es una forma de entrenarse para el inevitable enfrentamiento con su padre. 
 
-31. ¿Cuál ha sido su mayor logro en la vida?
+Su meta no es solo derrotarlo físicamente, sino destruir también su influencia sobre Vekhara, detener sus planes de golpe de estado y asegurarse de que no pueda seguir usando el miedo y la destrucción como herramientas de poder.
 
-Seguir vivo.
+Sin embargo, Cael se enfrenta a un dilema interno: su conexión de sangre con Erebus es un vínculo que no se puede ignorar, y aunque le odia, teme que al enfrentarlo no solo deba luchar contra su padre, sino también contra sí mismo. El vínculo que comparten podría tentar su lado demoníaco y corromperlo, convirtiéndolo en aquello que más detesta.
 
-33. ¿Qué es de lo que más se arrepiente?
+## **Stats**
 
-No salvar a su madre
+Puntos de salud
 
-37. ¿En qué momento de su vida sintió más miedo?
+Daño
 
-- Cuando descubrió que era medio deomonio
-
-40. ¿Qué cambiaría de su vida si pudiera?
-
-Nacer
-
-42. ¿Cuál es su mejor recuerdo?
-
-
-
-44. ¿Y su peor recuerdo?
-
-45. ¿Qué es lo que más ambiciona?
-
-46. ¿Quién ha tenido mayor influencia en él o ella?
-
-## **Conducta y Moral**
-
-41. ¿Cuál es su mayor temor? ¿Tiene alguna fobia?
-
-42. ¿Es religioso o practica alguna fe?
-
-43. ¿Cuáles son sus ideales políticos?
-
-44. ¿Es un ser moral? ¿Qué ética sigue?
-
-45. ¿Es emocionalmente abierto o le cuesta expresar sus sentimientos?
-
-46. ¿Discrimina o tiene prejuicios?
-
-47. ¿Se guía por la pasión o por la razón?
-
-48. ¿Moriría por alguna persona o causa?
-
-49. ¿Tiene algún código de conducta autoimpuesto?
-
-50. ¿Prefiere el orden o el caos?
-
-51. ¿Cómo se comporta en público?
-
-52. ¿Y con gente de confianza?
-
-53. ¿Le importa lo que los demás piensen de él o ella?
-
-54. ¿Es una persona culta?
-
-55. ¿Qué valores aprecia en sí mismo y en los demás?
-
-## **Preferencias y Cualidades**
-
-56. ¿Qué le gusta hacer en su tiempo libre?
-
-57. ¿Cuál es su color favorito?
-
-58. ¿Y su comida favorita?
-
-59. ¿Qué libro o película le define mejor?
-
-60. ¿Qué es lo que mejor sabe hacer?
-
-61. ¿Y lo que peor se le da?
-
-62. ¿Qué tres palabras le definen mejor?
-
-63. ¿Qué tres palabras describen mejor su personalidad?
-
-64. ¿Con qué tres palabras le describirían quienes le conocen?
-
-65. ¿Cómo le gustaría morir?
-
-## **Objetivos**
-
-66. ¿Qué le mueve y motiva cada día?
-
-67. ¿Qué objetivos tiene a corto plazo?
-
-68. ¿Y a largo plazo?
-
-69. ¿Qué le impide conseguir sus objetivos?
-
-70. ¿Cuál es el motivo de su existencia según él o ella?
+Velocidad

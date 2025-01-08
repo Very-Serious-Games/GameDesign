@@ -1,7 +1,7 @@
 ---
 title: Sistema de Batalla
-draft: true
-tags: []
+draft: false
+tags:
 ---
 # Estructura del combate
 - Fluidez y ritmo:
