@@ -1,6 +1,6 @@
 ---
 title: 6- Playtesting
-draft: true
+draft: false
 tags:
 ---
 ## Objetivo del Playtesting
