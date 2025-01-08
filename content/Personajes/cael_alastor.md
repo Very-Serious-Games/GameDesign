@@ -1,5 +1,5 @@
 ---
-title: Cael Alastor
+title: "Personaje Principal: Cael Alastor"
 draft: true
 tags:
   - Personaje
