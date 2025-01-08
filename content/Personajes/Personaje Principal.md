@@ -1,58 +1,34 @@
 ---
 title: "Personaje Principal: Cael Alastor"
-draft: true
+draft: false
 tags:
   - Personaje
 ---
-1. ¿Cuál es su nombre completo?
+## Cael Alastor
 
-Cael Alastor
+Cael Alastor, originario de Eshnar es un guerrero curtido y nuestro protagonista.
 
-3. ¿Cómo es físicamente?
+![Cael](https://i.pinimg.com/736x/c1/9f/dc/c19fdc9fa0e780a6edc0e052f2888084.jpg) ![Cael dressed up](https://i.pinimg.com/736x/ba/af/db/baafdbf64bae3ec69d79326296bcfd11.jpg)
 
-- Complexión atletica
-- Cabello blanco
-- Ojos castaños
-- Lleno de cicatrices por las batallas
 
-4. ¿Dónde y cuándo ha nacido?
+Su nombre completo es Cael Alastor, lleva el apellido de su padre a pesar de su mala relación ya que nunca pudo tomar el de su madre, fallecida en sus primeros años de vida.
 
-- Esclavo vendido
-- Nacido en un lugar poco relevante y abandonado en #Eshnar 
-- Hibrido entre demonio y humano.
+Físicamente es de complexión atlética, fuerte, con una cabellera blanca que en batalla intenta ocultar bajo el casco de la armadura para evitar ser reconocido. Tiene los ojos castaños y el cuerpo cubierto de cicatrices de luchas anteriores. En Vekhara no es común encontrar un pelo de ese color, por lo que llama bastante la atención si lo lleva descubierto.
 
-6. ¿Quienes son (o fueron) sus padres?
+Nació en un lugar poco relevante y abandonado en #Eshnar, y malvivió con su madre hasta alcanzar los 5 años de edad, momento en el que ella falleció y inevitablemente acabó siendo secuestrado y vendido como esclavo.
 
-- [[peride]]
-- [[erebus]]
+Hijo de Erebus Alastor, demonio General de #Ragnor y Peride, una humana común de clase baja, Cael se convierte en un fenómeno nada común en Vekhara: un híbrido entre demonio y humano. Su madre, Peride, consiguió ocultar su verdadera naturaleza hasta su muerte cuando Cael acababa de cumplir los 5 años, momento en el que ya era consciente de su rareza y de lo importante que era mantenerlo en secreto al mundo que le rodeaba.
 
-7. ¿Tiene hermanos? ¿Cómo son?
+No tiene hermanos ni ningún lazo importante que le ate a ningún lado, de manera que no reside en un mismo sitio más de 1 mes: lleva un estilo de vida nómada.
 
-No
+Es Cazarrecompensas: se dedica a matar demonios por el mundo, profesión para la que ha entrenado desde muy pequeño y que le permite vivir sin problemas. 
 
-10. ¿Dónde vive actualmente?
+Sus orígenes son de clase baja, y aunque sigue siendo de baja cuna, poco a poco se va labrando un nombre en la región. Su éxito en las misiones le está dando a conocer a gente cada vez más importante.
 
-Es nómoda.
+Tiene la voz grave y cuando habla suele transmitir una actitud chulesca, no suele caer bien.  No tiene ningún tic o hábito que le defina muy exagerado, pero suele intentar evitar ver su reflejo ya que le repulsa su mitad demonio.
 
-12. ¿A qué se dedica? ¿Cómo se gana la vida?
+Lleva consigo a todas partes un antiguo amuleto que había pertenecido a Erebus, su padre, y que utiliza para localizarlo (o evitarlo).
 
-Cazarecompensas: se dedica a ir matando demonios por el mundo.
-
-14. ¿A qué clase social pertenece?
-
-Sigue siendo de baja cuna, pero poco a poco se va labrando un nombre.
-
-17. ¿Qué transmite a la gente cuando habla? ¿Cómo suena su voz?
-
-Voz grave, con actitud chulesca, no suele caer bien.
-
-23. ¿Tiene tics, manías, hábitos extraños u otras características que le definan?
-
-Intenta evitar ver su reflejo, ya que le da asco su mitad demonio.
-
-25. ¿Tiene algún objeto, herramienta o instrumento que lleve consigo a todas partes?
-
-Amuleto de su padre que utiliza para localizarlo.
 ## **Relaciones**
 
 16. ¿Por quién fue educado y criado?
