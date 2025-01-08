@@ -31,9 +31,9 @@ Lleva consigo a todas partes un antiguo amuleto que había pertenecido a Erebus,
 
 ## **Relaciones**
 
-Hasta los 5 años vivió con su madre pero recuerda poco sobre esa época. Después de su muerte, fue secuestrado y vendido como esclavo a un antiguo exorcista de demonios llamado X. Se dió la casualidad que X lo vió en el mercado negro y percibió algo en el niño imperceptible para cualquier otra persona que careciera de habilidades demoníacas o estudios de ese sector. 
+Hasta los 5 años vivió con su madre pero recuerda poco sobre esa época. Después de su muerte, fue secuestrado y vendido como esclavo a un antiguo exorcista de demonios llamado Xyran del Alba Oscura. Se dió la casualidad que Xyran lo vió en el mercado negro y percibió algo en el niño imperceptible para cualquier otra persona que careciera de habilidades demoníacas o estudios de ese sector. 
 
-Creció y fue educado por X hasta que fue lo suficientemente mayor para valerse por sí mismo.
+Creció y fue educado por Xyran hasta que fue lo suficientemente mayor para valerse por sí mismo.
 
 Con su padre no mantiene ningún tipo de relación, le odia profundamente por ser el responsable de su naturaleza demoníaca y le culpa por la muerte de Peride.
 Sus únicos seres queridos son su difunta madre y su mentor, asesinado años atrás. En general no tiene ninguna otra relación trascendental. 
@@ -42,7 +42,7 @@ Nunca se ha enamorado ni ha mantenido una relación amorosa duradera con nadie. 
 
 ## **Crecimiento**
 
-A pesar de no tener estudios oficiales, su maestro le formó en las artes demoníacas y adquirió todos los conocimientos necesarios para poder ganarse la vida como Cazador de demonios. Tuvo una infancia dura, y empezó su formación des del momento en el que fue comprado por X. Su determinación por acabar con todos los demonios que azotaban los pueblos de #Eshnar le llevó a mejorar rápidamente y a alcanzar un nivel mortífero muy raro a su edad.
+A pesar de no tener estudios oficiales, su maestro le formó en las artes demoníacas y adquirió todos los conocimientos necesarios para poder ganarse la vida como Cazador de demonios. Tuvo una infancia dura, y empezó su formación des del momento en el que fue comprado por su futuro maestro. Su determinación por acabar con todos los demonios que azotaban los pueblos de #Eshnar le llevó a mejorar rápidamente y a alcanzar un nivel mortífero muy raro a su edad.
 
 Aprendió a usar su parte demoníaca como catalizador para su fuerza y habilidades de lucha, sin caer en la tentación de dejarse dominar por completo por ella. A base de un duro entrenamiento consiguió mantener sus dos naturalezas en equilibrio, lo que le otorgó una serie de capacidades fuera de lo común y nunca vistas en Vekhara.
 
